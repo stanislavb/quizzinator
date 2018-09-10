@@ -1,0 +1,21 @@
+title: Personality Quiz
+
+questions:
+  - question: What is your favourite color?
+    answers:
+      - answer: Red
+        Passionate: 1
+      - answer: Green
+      - answer: Blue
+        Responsible: 1
+
+  - question: What is your blood type?
+    answers:
+      - answer: A
+        Responsible: 2
+      - answer: B
+        Passionate: 2
+      - answer: AB
+        Creative: 2
+      - answer: O
+        Confident: 2
